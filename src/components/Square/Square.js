@@ -13,7 +13,7 @@ class Square extends Component {
       backgroundColor: fill,
       color: color,
       width: '100%',
-      height: '200px',
+      height: '100px',
       fontSize: '100px',
     };
 
